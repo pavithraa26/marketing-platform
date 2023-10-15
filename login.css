@@ -1,0 +1,52 @@
+/* Add this CSS code to your existing CSS file or link a new CSS file */
+
+.registration-form {
+    background-color: #fff;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.registration-form h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.registration-form .form-group {
+    margin: 15px 0;
+}
+
+.registration-form label {
+    display: block;
+    font-weight: bold;
+    text-align: left;
+}
+
+.registration-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.registration-form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.registration-form button:hover {
+    background-color: #45a049;
+}
+
+.registration-message {
+    font-weight: bold;
+    margin: 10px 0;
+}
